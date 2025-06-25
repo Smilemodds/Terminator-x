@@ -1,11 +1,11 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'SYSTEM 605 BOT'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://files.catbox.moe/mxxpd9.jpg'; // Can use path, can also use link
+global.botPic = 'https://files.catbox.moe/fzthai.png'; // Can use path, can also use link
 global.botToken = '8128927429:AAGNXIcay0fQwKgtQ4Pti9R5cXN9njMgfpo'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'mr_smile_modder'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
-global.ownerId = [6827359836]; // Replace With Your Owner ID(For Bot Owner), You Can Add More than 1
+global.ownerId = [6827359836];
 global.footer = '*Powered by Mr Smile*';
 global.ytdlWeb = 'https://youtube.com/@mrsmile_modders?si=L2gkUMaKTCPO2IOw';
 global.ytdlApi = 'https://giftedtech-ytdl-api.hf.space';
