@@ -1,0 +1,22 @@
+{
+    "name": "bot-md",
+    "description": "Gifted-Md, A simple Telegram user bot Created by Dark Tech",
+    "logo": "https://github.com/mouricedevs.png",
+    "repository": "https://github.com/mouricedevs/telegram-bot",
+    "keywords": ["whatsappbot", "Gifted Tech", "GIFTED MD", "GIFTED TECH 𝙈𝘿", "GIFTEDMdWhatsaooBot", "GIFTEDMDWaBot","GIFTED","GIFTED TECH Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "3000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "bot connection conformation message",
+        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ YOU HAVE CHOOEN TERMINATOR - X ]",
+        "required": false 
+      }
+    }   
+
+}
